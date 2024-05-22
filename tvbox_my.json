@@ -1,6 +1,26 @@
 {
     "urls": [
         {
+            "name": "0-MyTvBox",
+            "url": "https://github.moeyy.xyz/https://raw.kkgithub.com/ljxinternet/my-tvbox/main/tvbox_my.json"
+        },
+        {
+            "name": "0-MyTvBox",
+            "url": "https://github.moeyy.xyz/ljxinternet/my-tvbox/main/tvbox_my.json"
+        },
+        {
+            "name": "0-MyTvBox",
+            "url": "https://raw.kkgithub.com/ljxinternet/my-tvbox/main/tvbox_my.json"
+        },
+        {
+            "name": "0-MyTvBox",
+            "url": "https://ghproxy.net/ljxinternet/my-tvbox/main/tvbox_my.json"
+        },
+        {
+            "name": "0-MyTvBox",
+            "url": "https://raw.githubusercontent.com/ljxinternet/my-tvbox/main/tvbox_my.json"
+        },
+        {
             "name": "1-潇洒线路1",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
         },
